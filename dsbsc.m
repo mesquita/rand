@@ -13,17 +13,19 @@
 
 
 clear;
-close all;
+
 % ===============================
 % DSBSC MODULATION SIGNAL (cos)
 % ===============================
 
-%The baseband signal
 t1 = -0.1:1.e-4:0.1;
-m = ((3*cos((10*2*pi*t1))) + 1);
+%baseband signal frequency
+fo = 10;
+%The baseband signal
+m = ((3*cos((fo*2*pi*t1))) + 1);
 
 % Frquency of carrier wave
-fc = 1000;                                            
+fc = 500;                                            
 
 %The carrier
 c = cos(2*fc*pi*t1);
@@ -48,7 +50,7 @@ dem = dsb.*c;
 % Filtering out High Frequencies
 % ==============================
 
-a = fir1(25,100*1.e-4);
+a = fir1(25,1.e-3);
 b = 1;
 rec = filter(a,b,dem);
 
