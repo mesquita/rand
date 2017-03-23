@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.4)  18 MAR 2017 18:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.4)  22 MAR 2017 22:58
 entering extended mode
 **document.tex
 (document.tex
@@ -707,83 +707,43 @@ Package ifvtex Info: VTeX not detected.
 (C:\miktek\tex\latex\geometry\geometry.cfg))
 (C:\miktek\tex\latex\bera\beramono.sty
 Package: beramono 2004/01/31 (WaS)
-)
-(C:\miktek\tex\latex\listings\listings.sty
-\lst@mode=\count107
-\lst@gtempboxa=\box32
-\lst@token=\toks35
-\lst@length=\count108
-\lst@currlwidth=\dimen132
-\lst@column=\count109
-\lst@pos=\count110
-\lst@lostspace=\dimen133
-\lst@width=\dimen134
-\lst@newlines=\count111
-\lst@lineno=\count112
-\lst@maxwidth=\dimen135
-
-(C:\miktek\tex\latex\listings\lstmisc.sty
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count113
-\lst@skipnumbers=\count114
-\lst@framebox=\box33
-)
-(C:\miktek\tex\latex\listings\listings.cfg
-File: listings.cfg 2015/06/04 1.6 listings configuration
-))
-Package: listings 2015/06/04 1.6 (Carsten Heinz)
-
-(C:\miktek\tex\latex\xcolor\xcolor.sty
-Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
- (C:\miktek\tex\latex\00miktex\color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
-)
-Package xcolor Info: Driver file: pdftex.def on input line 225.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
-Package xcolor Info: Model `RGB' extended on input line 1353.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 ) (document.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 53.
-LaTeX Font Info:    Try loading font information for LY1+ptm on input line 53.
- (C:\miktek\tex\latex\ly1\ly1ptm.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 29.
+LaTeX Font Info:    Try loading font information for LY1+ptm on input line 29.
+
+(C:\miktek\tex\latex\ly1\ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 53.
-
-(C:\miktek\tex\latex\lm\t1lmr.fd
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 29.
+ (C:\miktek\tex\latex\lm\t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) (C:\miktek\tex\context\base\supp-pdf.mkii
+)
+(C:\miktek\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count115
-\scratchdimen=\dimen136
-\scratchbox=\box34
-\nofMPsegments=\count116
-\nofMParguments=\count117
-\everyMPshowfont=\toks36
-\MPscratchCnt=\count118
-\MPscratchDim=\dimen137
-\MPnumerator=\count119
-\makeMPintoPDFobject=\count120
-\everyMPtoPDFconversion=\toks37
+\scratchcounter=\count107
+\scratchdimen=\dimen132
+\scratchbox=\box32
+\nofMPsegments=\count108
+\nofMParguments=\count109
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen133
+\MPnumerator=\count111
+\makeMPintoPDFobject=\count112
+\everyMPtoPDFconversion=\toks36
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -819,111 +779,115 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count121
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
 
  []
 
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 78.
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 54.
 (C:\miktek\tex\latex\lm\ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 78.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 54.
  (C:\miktek\tex\latex\lm\omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 78.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 54.
 
 
 (C:\miktek\tex\latex\lm\omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 78.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 54.
 
  (C:\miktek\tex\latex\lm\omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 78.
+(Font)              <17.28> on input line 54.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 78.
+(Font)              <12> on input line 54.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 78.
-LaTeX Font Info:    Try loading font information for U+msa on input line 78.
+(Font)              <10> on input line 54.
+LaTeX Font Info:    Try loading font information for U+msa on input line 54.
 
 (C:\miktek\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 78.
+LaTeX Font Info:    Try loading font information for U+msb on input line 54.
  (C:\miktek\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 79--79
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--82
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
 
  []
 
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 77--84
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 53--60
  $[]$ 
  []
 
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 77--84
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 53--60
  $[]$ 
  []
 
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 77--84
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 53--60
  $[]$ 
  []
 
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 77--84
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 53--60
  $[]$ 
  []
 
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 77--84
+Overfull \hbox (56.90549pt too wide) in paragraph at lines 53--60
  $[]$ 
  []
 
 Package epstopdf Info: Source file: <figs/minerva-color.eps>
-(epstopdf)                    date: 2017-03-18 18:14:35
+(epstopdf)                    date: 2017-03-22 22:57:44
 (epstopdf)                    size: 536419 bytes
 (epstopdf)             Output file: <figs/minerva-color-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-03-18 18:14:35
+(epstopdf)                    date: 2017-03-22 22:57:43
 (epstopdf)                    size: 51294 bytes
 (epstopdf)             Command: <epstopdf --outfile=figs/minerva-color-eps-conv
 erted-to.pdf figs/minerva-color.eps>
-(epstopdf)             \includegraphics on input line 108.
-Package epstopdf Info: Output file is already uptodate.
+(epstopdf)             \includegraphics on input line 84.
+runsystem(epstopdf --outfile=figs/minerva-color-eps-converted-to.pdf figs/miner
+va-color.eps)...executed (allowed).
+
+Package epstopdf Info: Result file: <figs/minerva-color-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-03-22 22:58:46
+(epstopdf)                    size: 51294 bytes.
 <figs/minerva-color-eps-converted-to.pdf, id=1, 1097.09875pt x 440.64626pt>
 File: figs/minerva-color-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/minerva-color-eps-converted-to.pdf>
 Package pdftex.def Info: figs/minerva-color-eps-converted-to.pdf used on input 
-line 108.
+line 84.
 (pdftex.def)             Requested size: 125.19194pt x 50.2799pt.
 
 
@@ -937,17 +901,17 @@ Package Fancyhdr Warning: \footskip is too small (30.0pt):
 {C:/Users/Vinicius/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./figs/m
 inerva-color-eps-converted-to.pdf>] [2] (document.aux) ) 
 Here is how much of TeX's memory you used:
- 7520 strings out of 493673
- 96760 string characters out of 3151267
- 185189 words of memory out of 3000000
- 10654 multiletter control sequences out of 15000+200000
+ 5719 strings out of 493673
+ 72773 string characters out of 3151267
+ 154107 words of memory out of 3000000
+ 8871 multiletter control sequences out of 15000+200000
  33657 words of font info for 38 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 42i,14n,50p,329b,460s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,13n,50p,329b,450s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/miktek/fonts/enc/dv
 ips/lm/lm-ec.enc}<C:/miktek/fonts/type1/public/lm/lmbx12.pfb><C:/miktek/fonts/t
 ype1/public/lm/lmr12.pfb><C:/miktek/fonts/type1/public/lm/lmr17.pfb>
-Output written on document.pdf (2 pages, 126025 bytes).
+Output written on document.pdf (2 pages, 125717 bytes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
